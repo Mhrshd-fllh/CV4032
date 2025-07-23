@@ -16,5 +16,5 @@ It includes both theoretical and practical exercises implemented in Python noteb
 🎯 **Note:** This repository is for educational purposes only.
 
 ## 👨‍🏫 Instructor
-Dr. [Instructor Name]  
-[University Name]
+Dr. [Mohammad Reza Mohammadi]  
+[Iran University of Science and Technology]
